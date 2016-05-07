@@ -9,7 +9,7 @@ The gem only has default theme.
 ## Installation and Usage
 
 ```ruby
-gem 'semantic-ui-sass', github: 'doabit/semantic-ui-sass'
+gem 'semantic-ui-sass', github: 'zj0713001/semantic-ui-sass'
 ```
 
 `bundle install` and restart your server to make the files available through the pipeline.
